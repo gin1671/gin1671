@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-🌱　I’m currently learning ...
 🔭 I’m currently working on ...
 
-- 📝 https://nyantech14.github.io/note/
+- 📝　https://nyantech14.github.io/note/
 
-- 💻 https://qiita.com/nyantech
+🌱　I’m currently learning ...
 
-- 📔 https://note.com/nyantech
+- 💻　https://qiita.com/nyantech
+
+⚡ Fun fact: ...
+
+- 📔　https://note.com/nyantech
+
 
 <!--
 **nyantech14/nyantech14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +23,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
