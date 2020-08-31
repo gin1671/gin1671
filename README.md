@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
+🔭　I’m currently working on ...
 
 - 📝　https://nyantech14.github.io/note/
 
@@ -8,7 +8,7 @@
 
 - 💻　https://qiita.com/nyantech
 
-⚡ Fun fact: ...
+⚡　Fun fact: ...
 
 - 📔　https://note.com/nyantech
 
