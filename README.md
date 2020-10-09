@@ -2,7 +2,7 @@
 
 🔭　I’m currently working on ...
 
-- 📝　https://nyantech14.github.io/note/
+- 📝　https://gin1671.github.io/note/
 
 
 <!--
